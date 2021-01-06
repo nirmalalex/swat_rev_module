@@ -1,0 +1,26 @@
+swatplus_aw log file writen on 6-1-2021.
+
+15:58:38: preparing the qgis project
+15:58:38: preparing raster files
+15:58:38:  - dem file: srtm_30m.tif
+15:58:38:  - soils file: mowr_soil90
+15:58:38:  - soils file: roblandusenew
+15:58:38: creating raster directories in project
+15:58:38: extracting DEM to /media/nma/misc/UBU20/hdd/TCR/GroundWatMod/SWAT_CLI_Linux/swatplus-automatic-workflow-1.0.4/robit/Watershed/Rasters/DEM/srtm_30m.tif
+15:58:38: extracting landuse to /media/nma/misc/UBU20/hdd/TCR/GroundWatMod/SWAT_CLI_Linux/swatplus-automatic-workflow-1.0.4/robit/Watershed/Rasters/Landuse/roblandusenew
+15:58:39: creating qgis project instance
+15:58:39: cleaning up files from 'Watershed\Shapes'
+15:58:39: cleaning up files from 'Watershed\Text'
+15:58:39: reading qgis project
+15:58:40: initialising qswatplus module for watershed delineation
+15:58:40: running swatplus editor module
+15:58:40: initialising databases
+15:58:43: creating editor project for GUI compatibility
+15:58:43: setting up the project
+15:58:46: setting simulation period and adding weather
+15:58:48: setting up management options for landuse
+15:58:48: setting up management options for reservoirs
+15:58:48: configuring model run options
+15:58:48: writing files
+15:58:50: model will not be calibrated
+15:58:50: running model using release version

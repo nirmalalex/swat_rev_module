@@ -1,0 +1,12 @@
+{
+"swatplus-project": {
+		"version": "1.2.3",
+		"name": "robit",
+		"databases": {
+			"project": "robit.sqlite",
+			"datasets": "swatplus_datasets.sqlite"
+		},
+		"model": "SWAT+"
+	}
+}
+        

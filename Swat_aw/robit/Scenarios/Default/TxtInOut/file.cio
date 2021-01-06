@@ -1,0 +1,31 @@
+file.cio: written by SWAT+ editor v1.2.3 on 2021-01-06 15:58
+simulation        time.sim          print.prt         null              object.cnt        null              
+basin             codes.bsn         parameters.bsn    
+climate           weather-sta.cli   weather-wgn.cli   null              pcp.cli           tmp.cli           slr.cli           hmd.cli           wnd.cli           null              
+connect           null              null              null              null              null              null              null              null              null              null              null              null              null              
+channel           null              null              null              null              null              null              null              null              
+reservoir         null              null              null              null              null              null              null              null              
+routing_unit      null              null              null              null              
+hru               null              null              
+exco              null              null              null              null              null              null              
+recall            null              
+dr                null              null              null              null              null              null              
+aquifer           null              null              
+herd              null              null              null              
+water_rights      null              null              null              
+link              null              null              
+hydrology         null              null              null              
+structural        tiledrain.str     septic.str        filterstrip.str   grassedww.str     bmpuser.str       
+hru_parm_db       plants.plt        fertilizer.frt    tillage.til       pesticide.pst     null              null              null              urban.urb         septic.sep        snow.sno          
+ops               harv.ops          graze.ops         irr.ops           chem_app.ops      fire.ops          sweep.ops         
+lum               null              null              cntable.lum       cons_practice.lum  ovn_table.lum     
+chg               cal_parms.cal     null              null              null              null              null              null              null              null              
+init              null              null              null              null              null              null              null              null              null              null              null              
+soils             null              null              null              
+decision_table    lum.dtl           res_rel.dtl       scen_lu.dtl       flo_con.dtl       
+regions           null              null              null              null              null              null              null              null              null              null              null              null              null              null              null              null              null              
+pcp_path          null              
+tmp_path          null              
+slr_path          null              
+hmd_path          null              
+wnd_path          null              
